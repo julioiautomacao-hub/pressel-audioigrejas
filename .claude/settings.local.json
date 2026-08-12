@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude-in-chrome__computer",
+      "mcp__claude-in-chrome__read_network_requests",
+      "mcp__claude-in-chrome__navigate",
+      "mcp__claude-in-chrome__javascript_tool",
+      "Bash(unzip -o \"Pressel Áudio para Igrejas.zip\" -d extracted)",
+      "Bash(git --version)",
+      "Bash(gh --version)",
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(where git-credential-manager *)"
+    ]
+  }
+}

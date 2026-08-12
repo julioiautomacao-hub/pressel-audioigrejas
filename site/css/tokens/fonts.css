@@ -1,0 +1,7 @@
+/* Maju Vendas Online — webfonts.
+   The identity specifies Outfit (display) + Source Sans 3 (body) + IBM Plex Mono
+   (spec labels / code only). No binaries were supplied with the identity files, so
+   the families are loaded from Google Fonts — these are the real specified families,
+   not substitutes. Production (Astro on Cloudflare) self-hosts them via
+   @fontsource/outfit and @fontsource/source-sans-3. */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap");
